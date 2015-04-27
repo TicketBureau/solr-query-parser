@@ -1,0 +1,21 @@
+{
+    "name": "ebisbe/yii2-solr-query-parser",
+    "description": "Parser library to write query in an array format.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Enric Bisbe Gil",
+            "email": "enric.bisbe@ticketbureau.info"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ebisbe\\solrQueryParser\\": ""
+        }
+    }
+}
