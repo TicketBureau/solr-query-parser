@@ -1,6 +1,6 @@
 <?php
 
-namespace ebisbe;
+namespace ebisbe\solrQueryParser;
 
 class SolrQueryParser
 {
